@@ -2,7 +2,7 @@
 
 This Project is an assignment  which is build using ReactJs
 
-# 🤡The Problem statement is 
+# The Problem statement is 
 
 - a simple quiz app that take your selected option as the Review answer in the left side of the UI
 
